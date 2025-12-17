@@ -78,8 +78,8 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **yiranxiaohui@gmail.com**
-- 🐙 GitHub: [@yiranxiaohui](https://github.com/yiranxiaohui)
+- 📧 Email: **xiangxinke360@gmail.com**
+- 🐙 GitHub: [@peanut2001](https://github.com/peanut2001)
 
 ---
 
@@ -94,12 +94,12 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yiranxiaohui&show_icons=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=peanut2001&show_icons=true&count_private=true&hide_border=true" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiranxiaohui&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanut2001&hide_border=true&layout=compact" />
 
 </td></tr></table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yiranxiaohui&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=peanut2001&&style=flat-square)
