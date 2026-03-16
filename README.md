@@ -20,15 +20,6 @@
 <br/>
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on taking rest
-- 🌱 I’m currently learning how to be patient and persevere
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @amrrs (Github) 
-- ⚡ Fun fact: I hate language wars
 🧑‍💻 **Web Full-Stack Developer**  
 🌐 专注于 **现代 Web 应用、前后端一体化、工程化与用户体验**
 
