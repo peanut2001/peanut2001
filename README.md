@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=29F7AD&background=2C09FF00&multiline=true&width=600&lines=Hello!+I'm+peanut2001.;Web+Full-Stack+Developer)](https://git.io/typing-svg)
 
-## Things I coding with  
+## Things I coding with you
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="25" /></a>  
@@ -18,7 +18,7 @@
 </div>
 
 <br/>
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 
 🧑‍💻 **Web Full-Stack Developer**  
 🌐 专注于 **现代 Web 应用、前后端一体化、工程化与用户体验**
