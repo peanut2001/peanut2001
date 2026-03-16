@@ -33,7 +33,7 @@
 - 响应式布局 & 用户体验优化
 
 #### ⚙️ Backend
-- **Node.js / Python **
+- **Node.js / Python**
 - RESTful API 设计
 - 权限系统 & 身份认证
 - 业务逻辑建模与服务拆分
