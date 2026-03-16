@@ -1,3 +1,4 @@
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=29F7AD&background=2C09FF00&multiline=true&width=600&lines=Hello!+I'm+peanut2001.;Web+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## Things I coding with  
