@@ -1,4 +1,25 @@
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
+
+### Hi there 👋
+
+[![HitCount](http://hits.dwyl.com/amrrs/amrrs.svg)](http://hits.dwyl.com/amrrs/amrrs) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
+
+<!--
+**amrrs/amrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on taking rest
+- 🌱 I’m currently learning how to be patient and persevere
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: @amrrs (Github) 
+- ⚡ Fun fact: I hate language wars
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=29F7AD&background=2C09FF00&multiline=true&width=600&lines=Hello!+I'm+peanut2001.;Web+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## Things I coding with  
